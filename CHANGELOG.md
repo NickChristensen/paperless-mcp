@@ -1,5 +1,11 @@
 # @baruchiro/paperless-mcp
 
+## 0.2.3
+
+### Patch Changes
+
+- 3b015b7: Docker: Add arm64 architecture
+
 ## 0.2.2
 
 ### Patch Changes
